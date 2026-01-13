@@ -13,7 +13,7 @@
 2. Go to: `chrome://extensions`
 3. Enable **Developer mode** (top-right corner)
 4. Click **Load unpacked**
-5. Select the project folder (`hello-world-extension`)
+5. Select the project folder (`hello-extension`)
 6. Click the extension icon in the toolbar 🎉
 
 ---
